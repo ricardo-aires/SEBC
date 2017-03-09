@@ -1,3 +1,8 @@
+# Integrating Kerberos with Cloudera Manager
+
+## kdc.conf File
+
+```code
 [kdcdefaults]
  kdc_ports = 88
  kdc_tcp_ports = 88
@@ -12,3 +17,4 @@
   max_life = 1d
   max_renewable_life = 7d
  }
+```

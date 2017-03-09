@@ -1,3 +1,8 @@
+# Integrating Kerberos with Cloudera Manager
+
+## krb5.conf file
+
+```code
 [logging]
  default = FILE:/var/log/krb5libs.log
  kdc = FILE:/var/log/krb5kdc.log
@@ -23,3 +28,4 @@
 [domain_realm]
  .eu-west-1.compute.internal = SEBC.COM
  eu-west-1.compute.internal = SEBC.COM
+```
