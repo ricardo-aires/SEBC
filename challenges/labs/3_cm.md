@@ -107,9 +107,9 @@
 
     ```code
     hdfs dfs -mkdir /user/neymar
-    hdfs dfs -chown neymar:haddop /user/neymar
+    hdfs dfs -chown neymar:hadoop /user/neymar
     hdfs dfs -mkdir /user/ronaldo
-    hdfs dfs -chown ronaldo:haddop /user/ronaldo
+    hdfs dfs -chown ronaldo:hadoop /user/ronaldo
     ```
 
 1. Login to Hue and install the Hive sample data
