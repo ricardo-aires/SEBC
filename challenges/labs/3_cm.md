@@ -5,7 +5,16 @@
 1. Output for the `hdfs dfs -ls /user` command
 
     ```code
-    hdfs dfs -ls /user
+    $ hdfs dfs -ls /user
+    Found 8 items
+    drwxr-xr-x   - hdfs          supergroup             0 2017-03-10 09:24 /user/hdfs
+    drwxrwxrwx   - mapred        hadoop                 0 2017-03-10 09:13 /user/history
+    drwxrwxr-t   - hive          hive                   0 2017-03-10 09:14 /user/hive
+    drwxrwxr-x   - hue           hue                    0 2017-03-10 09:14 /user/hue
+    drwxr-xr-x   - neymar        haddop                 0 2017-03-10 09:21 /user/neymar
+    drwxrwxr-x   - oozie         oozie                  0 2017-03-10 09:15 /user/oozie
+    drwxr-xr-x   - ricardo-aires ricardo-aires          0 2017-03-10 09:24 /user/ricardo-aires
+    drwxr-xr-x   - ronaldo       haddop                 0 2017-03-10 09:21 /user/ronaldo
     ```
 
 1. Output from the CM API call `../api/v14/hosts`
