@@ -16,7 +16,10 @@
 
 - <a href="#instructor">Instructors & Students</a>
 - <a href="#audience">Audience Assumptions</a>
-- <a href="#design_layout">Course design</a>
+- <a href="#course_objectives">Course Objectives</a>
+- <a href="#design_layout">Course Plan</a>
+- <a href="#scored_challenges">Friday Morning: Challenges</a>
+- <a href="#scored_labs">Submitting Work</a>
 
 ---
 <div style="page-break-after: always;"></div>
@@ -40,13 +43,13 @@ sufficient to:
 
 * Complete all work in Cloudera's Hadoop for Administrators Course
 * Certify as a Hadoop Administrator
-* Install/operate CDH on a multi-node cluster 
+* Install/operate CDH on a multi-node cluster
 * Prepare a Linux platform for production use
 
 ---
 <div style="page-break-after: always;"></div>
 
-## <center> <a name="course_objectives"/a> Course Objectives
+## <center> <a name="course_objectives"/> Course Objectives
 
 * Prepare you to install CM/CDH clusters for production
 * Evaluate your readiness for engagements
@@ -55,7 +58,7 @@ sufficient to:
 ---
 <div style="page-break-after: always;"></div>
 
-## <center> <a name="design_layout"/a>Course Plan
+## <center> <a name="design_layout"/>Course Plan
 
 * Seven general topics with specific, up-to-date content
     * <a href="../installation/install.md">Installation</a>
@@ -69,7 +72,7 @@ sufficient to:
 ---
 <div style="page-break-after: always;"></div>
 
-## <center> <a name="scored_challenges"/> Friday Morning: Challenges []()
+## <center> <a name="scored_challenges"/> Friday Morning: Challenges
 
 * Six challenge stages, three hour test period
     * Install and secure a cluster
